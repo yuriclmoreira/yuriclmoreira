@@ -1,12 +1,8 @@
 ## Hello Devs! I'm Yuri Moreira 👋👋
 
-
-<div align="center">
-  <a href="https://github.com/yuriclmoreira">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=yuriclmoreira&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuriclmoreira&layout=compact&langs_count=7&theme=github_dark"/>
-</div>
-  
+<a href="https://github.com/yurimoreirac">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yurimoreirac&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   
 ### Technologies I use:  
   <div style="display: inline_block"><br>
