@@ -1,6 +1,9 @@
 ## Hello Devs! I'm Yuri Moreira 👋👋
 
-  
+  ![Yuri GitHub stats](https://github-readme-stats.vercel.app/api?username=yuriclmoreira&show_icons=true&theme=tokyonight)
+  <br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuriclmoreira&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<br />
 ### Technologies I use:  
   <div style="display: inline_block"><br>
   <img align="center" alt="Yuri-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"> 
