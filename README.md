@@ -1,10 +1,16 @@
 ## Hello Devs! I'm Yuri Moreira 👋👋
 
-  ![Yuri GitHub stats](https://github-readme-stats.vercel.app/api?username=yuriclmoreira&show_icons=true&theme=tokyonight)
-  <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuriclmoreira&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-<br />
-### Technologies I use:  
+<div>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yuriclmoreira&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="yuriclmoreira" /></p>
+<br/>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yuriclmoreira&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="yuriclmoreira" /></p><br>
+<br>
+</div>
+<br><br><br><br>
+
+### Technologies I use:
+
   <div style="display: inline_block"><br>
   <img align="center" alt="Yuri-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"> 
   <img align="center" alt="Yuri-bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg">
@@ -18,11 +24,10 @@
    <img align="center" alt="Yuri-jquery" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg"  />
   <img align="center" alt="Yuri-c++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Yuri-sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">          
-  <img align="center" alt="Yuri-php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">     
-
-
+  <img align="center" alt="Yuri-php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
 
 ### Technologies that I had contact:
+
 <div style='display: inline_block'><br />
  
   <img align="center" alt="Yuri-jquery" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg"  />
@@ -31,16 +36,17 @@
   <img  align="center" alt="Yuri-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
   <img  align="center" alt="Yuri-jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
 
-  
 </div>
 
-### Contact
+### Connect with me:
+
   <div> 
-  <a href="https://wa.me/5532984060604?text=" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/yurimoreirac/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href = "mailto:yuriclmoreira@terra.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/yuri-clemente-233047137/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  
- 
+    <a href = "mailto:yuriclmoreira@terra.com.br"><img  align="center" height="40" width="40" src="https://www.freepnglogos.com/uploads/email-png/email-messages-icon-16.png"></a>
+    <a href="https://wa.me/5532984060604?text=" target="_blank"><img align="center" height="30" width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" target="_blank"></a>
+     <a href="https://www.instagram.com/yurimoreirac/" target="_blank"><img  align="center" height="30" width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/yuri-clemente-233047137/" target="_blank"><img  align="center" height="30" width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" target="_blank"></a>
+    <a href="https://discord.gg/631263511514841098" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/discord-logo-png/discord-icon-flat-style-available-svg-png-eps-10.png" alt="asa" height="40" width="40" /></a>
+
 </div>
+
+
