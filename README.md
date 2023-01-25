@@ -1,13 +1,14 @@
 ## Hello Devs! I'm Yuri Moreira 👋👋
 
 <div>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yuriclmoreira&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="yuriclmoreira" /></p>
+  <li>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yuriclmoreira&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="yuriclmoreira" /></p>
 <br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yuriclmoreira&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="yuriclmoreira" /></p><br>
-<br>
+  <p><img align="c" src="https://github-readme-stats.vercel.app/api/top-langs?username=yuriclmoreira&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="yuriclmoreira" /></p>
+  
 </div>
-<br><br><br><br>
+
 
 ### Technologies I use:
 
