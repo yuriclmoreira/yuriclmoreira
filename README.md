@@ -1,7 +1,7 @@
 ## Hello Devs! I'm Yuri Moreira 👋👋
 
 <div>
-  <li>
+  
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yuriclmoreira&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="yuriclmoreira" /></p>
 <br/>
 
