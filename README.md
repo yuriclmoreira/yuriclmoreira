@@ -24,8 +24,7 @@
   <img align="center" alt="Yuri-mongodb" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
    <img align="center" alt="Yuri-jquery" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg"  />
   <img align="center" alt="Yuri-c++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Yuri-sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">          
-  <img align="center" alt="Yuri-php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+  
 
 ### Technologies that I had contact:
 
@@ -36,7 +35,8 @@
   <img  align="center" alt="Yuri-swift" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
   <img  align="center" alt="Yuri-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
   <img  align="center" alt="Yuri-jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
-
+  <img align="center" alt="Yuri-sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">          
+  <img align="center" alt="Yuri-php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
 </div>
 
 ### Connect with me:
